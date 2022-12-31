@@ -344,15 +344,7 @@ drawCard.addEventListener('click', function(){
 
 clearAll.addEventListener('click',function(){
     document.querySelector('.tarotCards').innerHTML = `
-    <div class="Card">
-    <img src="0a25ffa46ac07ed9edf88356210ee0e8.jpg" alt="">
-    <div>
-      <h3>Tarot</h3>
-      <p>
-        
-        </p>
-    </div>
-  </div>
+    
   `
      
     cards = [
