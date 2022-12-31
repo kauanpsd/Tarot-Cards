@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-size: 1.6rem;
+
+  font-family: 'Inter', sans-serif;
+}
+
+/* CSS */
+
+.button-7 {
+  background-color: #0095ff;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.button-7:hover,
+.button-7:focus {
+  background-color: #07c;
+}
+
+.button-7:focus {
+  box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-7:active {
+  background-color: #0064bd;
+  box-shadow: none;
+}
+
+.red{
+  background-color: #ff002b;
+}
+.red:hover,
+.red:focus{
+  background-color: #9c001a;
+}
+
+
+
+img{
+  max-width: 100%; /* Deixar a imagem responsiva */
+  display: block; /*  */
+}
+
+html{
+  font-size: 62.5%; /* deixar 1rem = 10px  para poder usar rem ao invés de px*/
+}
+
+html,
+body{
+  overflow-x: hidden; /* Evita o scroll lateral, ela deixa os elementos vazarem para fora da tela */
+}
+
+button{
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.tarotCards{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.Card{
+  width: 17.5rem;
+  margin: 0.5rem;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#buttons{
+  margin-top: 1rem ;
+}
+
+p{
+  font-size: 1.2rem;
+}
+
+h3{
+  padding: 0.5rem;
+}
