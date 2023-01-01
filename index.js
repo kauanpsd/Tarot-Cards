@@ -5,7 +5,7 @@ let cards = [
       description: `
         Astro: Uranus - The awakener,<br/>
         bringing change and shock. <br/><br/>
-        Num: 0 - Infinite Possibilities<br/>
+        Num: 0 - Infinite Possibilities<br/><br/>
         ↑ New Beginnings, Freedom<br/>
         ↓ Naivete, Fear of Change<br/>
       `
@@ -15,7 +15,7 @@ let cards = [
       cardName: "The Magician - 1",
       description: `
       Astro: Mercury - Communication <br/><br/>
-      Num: 1 - creative, strongly individual, inventive and positive<br/>
+      Num: 1 - creative, strongly individual, inventive and positive<br/><br/>
       ↑ Manifestation, Creator, Inspired Action<br/>
       ↓ Disconnect<br/>
       `
@@ -25,7 +25,7 @@ let cards = [
         cardName: "The High Priestess - 2",
         description: `
         Astro: The Moon - Emotions, Feelings, Intuition, Memories <br/><br/>
-        Num: 2 - highly emotional, naturally affectionate, sensitive, caring and loving<br/>
+        Num: 2 - highly emotional, naturally affectionate, sensitive, caring and loving<br/><br/>
         ↑ Intuition, Self-Knowledge<br/>
         ↓ Refusal to look again<br/>
         `
@@ -37,7 +37,7 @@ let cards = [
         Astro: Venus - Courtship,
         adoration, the relationship
         with tangible objects<br/><br/>
-        Num: 3 - Thoughtfully innovative<br/>
+        Num: 3 - Thoughtfully innovative<br/><br/>
         ↑ Receiving love, creativity<br/>
         ↓ Disconnection, blocks<br/>
         `
@@ -49,7 +49,7 @@ let cards = [
         Astro: Aries - Assertive
         engagement with the outer
         world<br/><br/>
-        Num: 4 - Stable and confident<br/>
+        Num: 4 - Stable and confident<br/><br/>
         ↑ Inspired Action<br/>
         ↓ Defensive, Stuck, Reactive<br/>
         `
@@ -63,7 +63,7 @@ let cards = [
         <br/><br/>
         Num: 5 - stimulating, witty,
         charismatic, optimistic,
-        <br/>
+        <br/><br/>
         ↑ Teacher, tradition<br/>
         ↓ Rigid Beliefs, Refusal<br/>
         `
@@ -77,7 +77,7 @@ let cards = [
         <br/><br/>
         Num: 6 - domestic happiness,
         harmony and stability
-        <br/>
+        <br/><br/>
         ↑ Relationship, alignment<br/>
         ↓ Disharmony, Imbalance<br/>
         `
@@ -90,7 +90,7 @@ let cards = [
         <br/><br/>
         Num: 7 - introspective,
         intuitive
-        <br/>
+        <br/><br/>
         ↑ A Journey, Momentum<br/>
         ↓ Stagnation, Unable to move<br/>
         `
@@ -102,7 +102,7 @@ let cards = [
         Astro: Leo - Sustainability & dedication
         <br/><br/>
         Num: 8 - Achiever, measures life by the goals met
-        <br/>
+        <br/><br/>
         ↑ Overcoming obstacles<br/>
         ↓ Apprehension, Lacking Confidence<br/>
         `
@@ -116,7 +116,7 @@ let cards = [
         <br/><br/>
         Num: 9 - Compassion,
         selflessness
-        <br/>
+        <br/><br/>
         ↑ Wisdom, Solitude<br/>
         ↓ Loneliness, Isolation<br/>
         `
@@ -129,8 +129,8 @@ let cards = [
         Learning, Luck and Good
         Fortune
         <br/><br/>
-        Num: 10 -
-        <br/>
+        Num: 10 - The Magician
+        <br/><br/>
         ↑ Cycles and Change<br/>
         ↓ Delays and Setbacks
         <br/>
@@ -144,7 +144,7 @@ let cards = [
         balance, inclusivity
         <br/><br/>
         Num: 1 + 1 = 2, High Priestess
-        <br/>
+        <br/><br/>
         ↑ Truth, Balance<br/>
         ↓ Imbalance, Unfair Treatment
         <br/>
@@ -162,7 +162,7 @@ let cards = [
 
         Num: 1+2=3, The Empress
 
-        <br/>
+        <br/><br/>
 
         ↑ Waiting, Shifting Perspective
 
@@ -182,7 +182,7 @@ let cards = [
         hidden truths
         <br/><br/>
         Num: 1+3=4, The Emperor
-        <br/>
+        <br/><br/>
         ↑ Transformation, Release
         <br/>
         ↓ Clinging to the past,
@@ -197,7 +197,7 @@ let cards = [
         Astro: Sagittarius - Change-Maker, teaching,
         <br/><br/>
         Num: 1+4-5, The Hierophan
-        <br/>
+        <br/><br/>
         ↑ Moderation, Harmony, Divine Timing
         <br/>
         ↓ Imbalance, Pushing for
@@ -213,7 +213,7 @@ let cards = [
         goals, building, climbing
         <br/><br/>
         Num: 1+5=6, The Lovers
-        <br/>
+        <br/><br/>
         ↑ Sabotage, Addiction
         <br/>
         ↓ Release, Liberation
@@ -228,7 +228,7 @@ let cards = [
         Astro: Mars - Energy, Passion, Drive, Determination
         <br/><br/>
         Num: 1+6=7, The Chariot
-        <br/>
+        <br/><br/>
         ↑ Upheaval, Sudden Change,
         Getting back on the path to
         best alignment
@@ -244,7 +244,7 @@ let cards = [
         Astro: Aquarius - Intelligence, Fresh Perspective
         <br/><br/>
         Num: 1+7=8, Strength
-        <br/>
+        <br/><br/>
         ↑ Hope, Healing
         <br/>
         ↓ Loss of faith, Disconnection
@@ -258,7 +258,7 @@ let cards = [
         Astro: Pisces - Compassionate, Empathic
         <br/><br/>
         Num: 1+8=9, The Hermit
-        <br/>
+        <br/><br/>
         ↑ Dreams, Illusions, seeing your shadow
         <br/>
         ↓ Refusing the truth
@@ -272,7 +272,7 @@ let cards = [
         Astro: Sun - Vitality, Strength, Energy
         <br/><br/>
         Num: 1+9=10, 1+0=1, Wheel of Fortune, Magician
-        <br/>
+        <br/><br/>
         ↑ Clarity, Optimism
         <br/>
         ↓ Pessimism, Confusion
@@ -286,7 +286,7 @@ let cards = [
         Astro: Pluto - Transformation, regeneration, rebirth
         <br/><br/>
         Num: 2+0=2, The High Priestess, Justice
-        <br/>
+        <br/><br/>
         ↑ Awakening, Acceptance, The Truth Comes Out
         <br/>
         ↓ Self Doubt, Resentment
@@ -300,7 +300,7 @@ let cards = [
         Astro: Saturn - Perseverance, withstanding the test of time
         <br/><br/>
         Num: 2+1=3, Empress, Hanged Man
-        <br/>
+        <br/><br/>
         ↑ Successful Completion, Reaping Rewards
         <br/>
         ↓ Incomplete Action, Delayed Celebrations
@@ -310,7 +310,149 @@ let cards = [
 
       /* Arcanos Menores */
 
+      {
+        image: "./img/22.jpg",
+        cardName: "Ace of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Aces - New Beginnings, Fresh Starts, Opportunity, New Ideas        
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Inspiration, Creativity, New Creative Ideas
+        <br/>
+        ↓ Hesitation, Delays
+        <br/><br/>
+        
+        `
+      },
+      {
+        image: "./img/23.jpg",
+        cardName: "Twos of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Twos - Cards of Decision or choices        
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Waiting on Results to Make a Decision, Future Planning
+        <br/>
+        ↓ Impatience, Lack of Planning
+        <br/>
+        `
+      },
+      {
+        image: "./img/24.jpg",
+        cardName: "Threes of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Threes - Collaboration, Teamwork, and Community Cards        
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Expansion, Potential Travel, Growth, Collaboration
+        <br/>
+        ↓ Delays, Disappointment
+        <br/><br/>
 
+        `
+      },
+      {
+        image: "./img/25.jpg",
+        cardName: "Fours of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Fours - Foundations, Stability, Meeting Your Needs        
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Celebration, Family and Friendship, Homecomings, Special Events
+        <br/>
+        ↓Returning to the Joy of the Present
+        <br/><br/>
+
+        `
+      },
+      {
+        image: "./img/26.jpg",
+        cardName: "Fives of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Fives - Chaos, Conflict, Competition       
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Competition, Rivalry, Challenges, Obstacles
+        <br/>
+        ↓Exaggeration, Finding a Solution
+        <br/><br/>
+
+        `
+      },
+      {
+        image: "./img/27.jpg",
+        cardName: "Sixes of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Sixes - Generosity, Best Outcomes, Recognition       
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Victory, Recognition, Standing in the Spotlight, Success
+        <br/>
+        ↓ Delayed Success
+        <br/><br/>
+
+        `
+      },
+      {
+        image: "./img/28.jpg",
+        cardName: "Sevens of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Sevens - Defense, Deception, Possibilities     
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Defensiveness, Assertiveness, Needing to Protect Yourself
+        <br/>
+        ↓ Hypervigilance, Feeling Defeated
+        <br/><br/>
+
+        `
+      },
+      {
+        image: "./img/29.jpg",
+        cardName: "Eights of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Eights - Decisions, Restrictions, Productivity    
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Movement, Quick Action, Speed of News
+        <br/>
+        ↓Slowing Down, Exercising Patience
+        <br/><br/>
+
+        `
+      },
+      {
+        image: "./img/30.jpg",
+        cardName: "Nines of wands",
+        description: `
+        Wands - Creativity & Passion 
+        Nines - Resilience, Worry & Success, Abundance  
+        <br/><br/>
+        Fire Signs: Aries, Leo, Sagittarius
+        <br/><br/>
+        ↑ Persistence, Self-Reliance, Boundary Setting
+        <br/>
+        ↓ Giving Up, Delays
+        <br/><br/>
+
+        `
+      },
   ];
 
 
@@ -343,9 +485,7 @@ drawCard.addEventListener('click', function(){
 })
 
 clearAll.addEventListener('click',function(){
-    document.querySelector('.tarotCards').innerHTML = `
-    
-  `
+    document.querySelector('.tarotCards').innerHTML = ``
      
     cards = [
       {
