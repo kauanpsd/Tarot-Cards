@@ -1362,7 +1362,7 @@ clearAll.addEventListener('click',function(){
      
   /* Array de reset */
 
-    let cards = [
+    cards = [
       {
         image: "./img/0.jpg",
         cardName: "The Fool - 0",
