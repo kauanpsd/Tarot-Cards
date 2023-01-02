@@ -94,6 +94,7 @@ button{
 }
 
 .container{
+  padding-top: 10rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -101,7 +102,12 @@ button{
 }
 
 #buttons{
+  padding-bottom: 1rem;
+  text-align: center;
+  top: 0;
+  position: fixed;
   margin-top: 1rem ;
+  background-color: rgba(138, 138, 138, 0.253);
 }
 
 p{
